@@ -11,7 +11,7 @@ This is my first project ever. I made it during my winter break. It is a clone p
 I created this project to practice what I have learned during the break and also want to know steps to create a personal website
 
 ## Technologies
-HTML, CSS.
+HTML, CSS, JS( just abit touch).
 
 ## Launch
 It can run on any web browers, but for a complete display, use Google Chrome. 
