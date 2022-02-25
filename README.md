@@ -5,13 +5,13 @@
 Personal website.
 
 ## Introduction
-This is my first project ever. I made it during my winter break. It is a clone project from Youtube and I added responsive feature into it to make its outline appllicable on smaller screen, example on your personal phones or tablets.
+This is my first project ever. I made it during my winter break. It is a clone project from Youtube and I added responsive feature into it to make its outline appllicable on smaller screens, for example on your personal phones or tablets.
 
 
-I created this project to practice what I have learned during the break and also want to know steps to create a personal website
+I created this project to practice what I have learned during the break and also wanted to know steps to create a personal website
 
 ## Technologies
-HTML, CSS, JS( just abit touch).
+HTML, CSS, JS( just abit touch :)).
 
 ## Launch
 It can run on any web browers, but for a complete display, use Google Chrome. 
