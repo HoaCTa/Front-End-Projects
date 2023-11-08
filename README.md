@@ -1,17 +1,15 @@
-# Front-End-Projects
+# Project Name
+My personal website
 
 
-## Titles and internal titles
-Personal website.
 
-## Introduction
-This is my first project ever. I made it during my winter break. I learnd this on Youtube and added responsive feature into it to make its outline appllicable on smaller screens, for example on your personal phones or tablets.
+## Description
+This is my first web development project. I created it during my winter break in 2020 for fun because I learned some web development skills on YouTube, and I wanted to practice what I had learned. I added responsive features to the website to make it accessible and user-friendly on a variety of devices.
 
 
-I created this project to practice what I have learned during the break and also wanted to know steps to create a personal website
 
 ## Technologies
-HTML, CSS, JS( just abit touch :)).
+HTML, CSS, JS
 
 ## Launch
-It can run on any web browers, but for a complete display, use Google Chrome. 
+It can run on any web browser, but for the best display, use Google Chrome.
